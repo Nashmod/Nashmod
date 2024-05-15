@@ -1,5 +1,3 @@
-<a href="https://app.daily.dev/obsidianlab"><img src="https://api.daily.dev/devcards/v2/pRX3hdmC73MCth2jV4ptf.png?r=wbp&type=default" width="356" alt="Noah Oleana's Dev Card"/></a>
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -23,3 +21,5 @@
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![GA](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+<a href="https://app.daily.dev/obsidianlab"><img src="https://api.daily.dev/devcards/v2/pRX3hdmC73MCth2jV4ptf.png?r=wbp&type=default" width="356" alt="Noah Oleana's Dev Card"/></a>
