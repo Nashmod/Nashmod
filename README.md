@@ -24,5 +24,6 @@
 ![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![GA](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
 ![Cocoapods platforms](https://img.shields.io/badge/cocoapods-20232A?style=for-the-badge&logo=cocoapods&logoColor=white)
+![Wordpress](https://img.shields.io/badge/wordpress-20232A?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <a href="https://app.daily.dev/obsidianlab"><img src="https://api.daily.dev/devcards/v2/pRX3hdmC73MCth2jV4ptf.png?r=wbp&type=default" width="356" alt="Noah Oleana's Dev Card"/></a>
